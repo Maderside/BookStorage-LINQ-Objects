@@ -1,0 +1,10 @@
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\bin\Debug\lab1M.exe.config
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\bin\Debug\lab1M.exe
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\bin\Debug\lab1M.pdb
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\bin\Debug\BookStorage.dll
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\bin\Debug\BookStorage.pdb
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\obj\Debug\lab1M.exe
+C:\Users\maxga\Робочий стіл\.Net\lab1\lab1M\obj\Debug\lab1M.pdb

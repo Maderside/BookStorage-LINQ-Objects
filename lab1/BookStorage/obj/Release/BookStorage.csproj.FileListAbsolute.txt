@@ -1,0 +1,5 @@
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\bin\Release\BookStorage.dll
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\bin\Release\BookStorage.pdb
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Release\BookStorage.csproj.CoreCompileInputs.cache
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Release\BookStorage.dll
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Release\BookStorage.pdb

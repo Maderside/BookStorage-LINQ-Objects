@@ -1,0 +1,6 @@
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\bin\Debug\BookStorage.dll
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\bin\Debug\BookStorage.pdb
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Debug\BookStorage.csprojAssemblyReference.cache
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Debug\BookStorage.csproj.CoreCompileInputs.cache
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Debug\BookStorage.dll
+C:\Users\maxga\Робочий стіл\.Net\lab1\BookStorage\obj\Debug\BookStorage.pdb
